@@ -1,4 +1,5 @@
 ### Hello World! I'm Diogo, be very welcome.
+<hr>
 
 <!--
 **di0gosilva/di0gosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
