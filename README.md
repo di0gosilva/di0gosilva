@@ -1,7 +1,5 @@
 ### Hello World! Eu sou o Diogo.
 ##
-- 🌱 Estou aprendendo: Javascript <br>
-- 😄 Pronomes: ele/dele <br><br>
 <div>
   <a href="https://github.com/di0gosilva"></a>
   <img align="center" size="180em" src="https://github-readme-stats.vercel.app/api?username=di0gosilva&show_icons=true&theme=merko&include_all_commits=true&count-private=true"/>
