@@ -12,7 +12,6 @@
   <img align="center" alt="Diogo-JS" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Diogo-TS" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt="Diogo-REACT" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="Diogo-PYTHON" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 </div>
 
 ##
