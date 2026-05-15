@@ -17,22 +17,11 @@
 
   ## :rocket: Stack
 
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/
-  javascript-original.svg" width="22" /> JavaScript
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/
-  typescript-original.svg" width="22" /> TypeScript
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-
-  original.svg" width="22" /> Node.js
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-
-  original.svg" width="22" /> Next.js
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-
-  original.svg" width="22" /> NestJS
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/
-  postgresql-original.svg" width="22" /> PostgreSQL
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-
-  original.svg" width="22" /> Linux (Arch + Hyprland)
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-
-  original.svg" width="22" /> Shell / Bash
+  <p>
+    <img src="https://skillicons.dev/icons?
+  i=js,ts,nodejs,nextjs,nestjs,postgres,linux,bash,arch" alt="JavaScript,
+  TypeScript, Node.js, Next.js, NestJS, PostgreSQL, Linux, Bash, Arch Linux" />
+  </p>
 
   ## :bar_chart: GitHub Stats
   <p align="center">
