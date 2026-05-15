@@ -1,22 +1,43 @@
-### Hello World! Eu sou o Diogo.
-##
-<div>
-  <a href="https://github.com/di0gosilva"></a>
-  <img align="center" size="180em" src="https://github-readme-stats.vercel.app/api?username=di0gosilva&show_icons=true&theme=merko&include_all_commits=true&count-private=true"/>
-  <img align="center" size="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0gosilva&layout=donut&langs_count=10&theme=merko"/>
-</div>
-<br>
-<div style="display: inline_block">
-  <img align="center" alt="Diogo-HTML" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-  <img align="center" alt="Diogo-CSS" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
-  <img align="center" alt="Diogo-JS" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Diogo-TS" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Diogo-REACT" height="50" width"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-</div>
+<h1 align="center">Hey, eu sou o Diogo 👋</h1>
+  <p align="center">
+    Frontend Developer focado em interfaces modernas, performance e DX.
+  </p>
 
-##
-<div>
-  <a href="https://www.instagram.com/di0gosilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
-  <a href="mailto:dsmusic22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://www.linkedin.com/in/diogo-silva-ba702495/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"</a>
-</div>
+  <p align="center">
+    <a href="https://github.com/di0gosilva">
+      <img src="https://komarev.com/ghpvc/?username=di0gosilva&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    </a>
+    <a href="https://github.com/di0gosilva?tab=followers">
+      <img src="https://img.shields.io/github/followers/di0gosilva?label=Followers&style=flat&color=0e75b6" alt="followers" />
+    </a>
+  </p>
+
+  ## 🚀 Stack principal
+  <p>
+    <img alt="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </p>
+
+  ## 📊 GitHub Analytics
+  <p>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?
+  username=di0gosilva&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" alt="github stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=di0gosilva&layout=compact&langs_count=8&theme=transparent" alt="top
+  langs" />
+  </p>
+
+  ## 🌐 Contato
+  <p>
+    <a href="https://www.linkedin.com/in/diogo-silva-ba702495/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:dsmusic22@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.instagram.com/di0gosilva">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
