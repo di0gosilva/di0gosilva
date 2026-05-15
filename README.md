@@ -1,9 +1,10 @@
 <div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?
+    <img
+      src="https://readme-typing-svg.herokuapp.com?
   font=Fira+Code&weight=600&size=26&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Ol%C3%A1%2C+eu+sou+o+Diogo+
-  %F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL)](https://github.com/di0gosilva)
-
+  %F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+Next.js+%7C+NestJS+%7C+PostgreSQL"
+      alt="Typing SVG"
+    />
   </div>
 
   <p align="center">
@@ -16,14 +17,13 @@
   </p>
 
   ## :rocket: Stack
-  <p align="left">
-    <img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img alt="TypeScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img alt="Next.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img alt="NestJS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
-    <img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  </p>
+
+  <p><img alt="JavaScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> JavaScript</p>
+  <p><img alt="TypeScript" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> TypeScript</p>
+  <p><img alt="Node.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> Node.js</p>
+  <p><img alt="Next.js" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> Next.js</p>
+  <p><img alt="NestJS" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" /> NestJS</p>
+  <p><img alt="PostgreSQL" height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> PostgreSQL</p>
 
   ## :bar_chart: GitHub Stats
   <p align="center">
