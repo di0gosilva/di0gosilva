@@ -23,9 +23,9 @@
   - <img src="https://skillicons.dev/icons?i=nextjs" height="20" /> Next.js
   - <img src="https://skillicons.dev/icons?i=nestjs" height="20" /> NestJS
   - <img src="https://skillicons.dev/icons?i=postgres" height="20" /> PostgreSQL
-  - <img src="https://skillicons.dev/icons?i=linux" height="20" /> Linux
-  - <img src="https://skillicons.dev/icons?i=bash" height="20" /> Shell / Bash
   - <img src="https://skillicons.dev/icons?i=arch" height="20" /> Arch Linux
+  - <img src="https://skillicons.dev/icons?i=bash" height="20" /> Shell / Bash
+  
 
   ## :bar_chart: GitHub Stats
   <p align="center">
