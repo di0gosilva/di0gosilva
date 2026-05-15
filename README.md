@@ -1,22 +1,6 @@
 <h1 align="center">Olá, eu sou o Diogo 👋</h1>
   <p align="center">
-    Desenvolvedor Full Stack focado em JavaScript, TypeScript, Node.js, Next.js,
-  NestJS e PostgreSQL.
-  </p>
-  <p align="center">
-    Construindo aplicações web modernas, performáticas e escaláveis.
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/di0gosilva">
-      <img src="https://komarev.com/ghpvc/?
-  username=di0gosilva&label=Visualiza%C3%A7%C3%B5es&color=0ea5e9&style=flat"
-  alt="views"/>
-    </a>
-    <a href="https://github.com/di0gosilva?tab=followers">
-      <img src="https://img.shields.io/github/followers/di0gosilva?
-  label=Seguidores&style=flat&color=0ea5e9" alt="followers"/>
-    </a>
+    Desenvolvedor Full Stack focado em construir aplicações web modernas, performáticas e escaláveis.
   </p>
 
   <p align="center">
