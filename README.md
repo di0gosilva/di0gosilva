@@ -17,11 +17,15 @@
 
   ## :rocket: Stack
 
-  <p>
-    <img src="https://skillicons.dev/icons?
-  i=js,ts,nodejs,nextjs,nestjs,postgres,linux,bash,arch" alt="JavaScript,
-  TypeScript, Node.js, Next.js, NestJS, PostgreSQL, Linux, Bash, Arch Linux" />
-  </p>
+  - <img src="https://skillicons.dev/icons?i=js" height="20" /> JavaScript
+  - <img src="https://skillicons.dev/icons?i=ts" height="20" /> TypeScript
+  - <img src="https://skillicons.dev/icons?i=nodejs" height="20" /> Node.js
+  - <img src="https://skillicons.dev/icons?i=nextjs" height="20" /> Next.js
+  - <img src="https://skillicons.dev/icons?i=nestjs" height="20" /> NestJS
+  - <img src="https://skillicons.dev/icons?i=postgres" height="20" /> PostgreSQL
+  - <img src="https://skillicons.dev/icons?i=linux" height="20" /> Linux
+  - <img src="https://skillicons.dev/icons?i=bash" height="20" /> Shell / Bash
+  - <img src="https://skillicons.dev/icons?i=arch" height="20" /> Arch Linux
 
   ## :bar_chart: GitHub Stats
   <p align="center">
